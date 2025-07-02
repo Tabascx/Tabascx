@@ -14,9 +14,6 @@ My goal is to become a skilled **cybersecurity professional**, with the ambition
 
 | Skill                                        | Associated Project         |
 |----------------------------------------------|----------------------------|
-| Java Programming Basics                      | <a href="#">Grade Evaluator</a> |
-| Logical Operations and Conditionals          | <a href="#">Multiplication Table Generator</a> |
-| Problem-Solving and Debugging                | Personal Study Projects    |
 | Structured Algorithm Design                 | Current Coursework         |
 | **Log Analysis and SIEM**                    | En progreso: Prácticas de detección de eventos |
 | **Network Traffic Analysis**                 | <a href="#">Prácticas con Wireshark</a> |
@@ -53,8 +50,8 @@ My goal is to become a skilled **cybersecurity professional**, with the ambition
 ---
 
 ## Projects  
-- **Kickboxing Training Tracker** (Upcoming)  
-  A project to monitor and log my **Muay Thai** progress, combining my interests in sports and tech.  
+- *Sherlock Game** (Upcoming)  
+  A project to learn.  
 
 ---
 
