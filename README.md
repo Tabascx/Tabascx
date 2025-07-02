@@ -1,58 +1,92 @@
-# Hello, I'm Tabascx  
-<a href="https://www.linkedin.com/in/ismail-kouira-zailachi-959a02279/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+# 👋 Hello, I'm Tabascx 
 
-I am a **web development student** with a passion for **cybersecurity** and a dedication to building strong technical foundations.  
+<a href="https://www.linkedin.com/in/ismail-kouira-zailachi-959a02279/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
-
-## Objective  
-My goal is to become a skilled **cybersecurity professional**, with the ambition of working in a **Security Operations Center (SOC)** or a **forensic intelligence unit**. I am committed to learning and contributing to projects that improve security measures and detect threats effectively.  
+I'm a **junior developer** and cybersecurity enthusiast currently studying **Web Application Development (DAW)**. I'm building strong skills in **Java programming, databases**, and gradually diving into the world of **cybersecurity** and **digital forensics**.
 
 ---
 
-## Skills  
+## 🎯 Objective
 
-| Skill                                        | Associated Project         |
-|----------------------------------------------|----------------------------|
-| Structured Algorithm Design                 | Current Coursework         |
-| **Log Analysis and SIEM**                    | En progreso: Prácticas de detección de eventos |
-| **Network Traffic Analysis**                 | <a href="#">Prácticas con Wireshark</a> |
-| **Incident Response**                        | Simulación de respuestas a incidentes |
-| **Vulnerability Scanning**                   | Uso de **Nmap** y análisis en entornos locales |
-| **Password Cracking and Brute Force**        | Uso de **Hydra** para pruebas controladas |
-| **Scripting and Automation**                 | Automatización con scripts para mitigación |
-| **Threat Intelligence Research**             | Investigación de patrones de ciberataques |
+My goal is to become a **digital investigator**—someone capable of identifying, analyzing, and solving security threats. I’m especially interested in working in a **Security Operations Center (SOC)**, as a **forensic analyst**, or in **threat hunting**, combining investigation and technical skills.
 
 ---
 
-## Tools  
+## 🧠 Current Focus
 
-### Programming and Development  
+- Mastering **Java** and fundamental programming
+- Developing **problem-solving** and **logic** through hands-on projects
+- Learning the basics of **network analysis**, **Linux**, and **ethical hacking**
+- Preparing to dive deeper into **TryHackMe**, **Hack The Box**, and real-world labs
+
+---
+
+## ✅ Skills (Current Level)
+
+| Skill / Area                      | Description                              |
+|----------------------------------|------------------------------------------|
+| **Java (OOP, Arrays, Methods)**  | Used in coursework and personal projects |
+| **SQL and Relational Databases** | Applied in academic exercises            |
+| **Linux CLI (basic)**            | Navigation, permissions, scripting basics|
+| **Windows CLI**                  | Basic commands and scripting             |
+| **HTML & CSS**                   | Front-end structure and styling          |
+| **Problem-Solving & Logic**      | Practiced through code and personal work |
+
+---
+
+## 📈 In Progress
+
+| Area                            | Learning Goals                           |
+|----------------------------------|------------------------------------------|
+| **Bash scripting**              | Automating basic system tasks            |
+| **Wireshark (network analysis)**| Capturing and analyzing local traffic    |
+| **Nmap (reconnaissance)**       | Scanning and identifying network devices |
+| **TryHackMe / Hack The Box**    | Practical learning environments          |
+| **Web Security (OWASP)**        | Exploring common vulnerabilities         |
+| **Basic Cryptography**          | Studying encryption concepts             |
+| **Digital Forensics**           | Investigative logic via project work     |
+
+---
+
+## 🧰 Tools & Technologies
+
+### Development
 <div>
-    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
-### Cybersecurity Exploration  
+### Cybersecurity Tools (Learning Stage)
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-009639?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-FF5733?&style=for-the-badge&logo=Hydra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-009639?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ---
 
-## Certifications  
-[Working towards certifications in cybersecurity fundamentals.]  
+## 📜 Certifications
+
+Currently studying toward:
+- **Cybersecurity Fundamentals** (self-taught with labs and readings)
+- **TryHackMe** and **Hack The Box** learning paths
+- Future goals: **CompTIA Security+** or equivalent entry-level cert
 
 ---
 
-## Projects  
-- *Sherlock Game** (Upcoming)  
-  A project to learn.  
+## 🕵️‍♂️ Projects
+
+### 🧩 Sherlock Game *(In development)*
+A Java-based logic and investigation game that simulates deduction scenarios. Inspired by forensic problem-solving and cyber puzzles. Helps me reinforce programming concepts, database usage, and critical thinking.
 
 ---
 
-Thank you for visiting my profile! Feel free to connect or check out my repositories. Let’s build something amazing together! 🚀
+## 🤝 Let’s Connect
+
+Thanks for stopping by my profile! If you're into programming, cybersecurity, or digital investigation—feel free to reach out or explore my repositories.
+
+**Learning is the mission. Security is the mindset. Let’s grow together.** 🧠💻🔍
