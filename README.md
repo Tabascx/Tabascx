@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ismail — Tabascx
+#  Hi, I'm Ismail — Tabascx
 
 <a href="https://www.linkedin.com/in/ismail-kouira-zailachi-959a02279/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 I'm a **DAW (Web Application Development)** student with hands-on experience in IT support and a deep interest in cybersecurity and digital investigation. I learn by building — from configuring systems in the field to shipping full-stack applications from scratch.
 
@@ -22,9 +22,9 @@ My long-term goal is to work in a **SOC**, in **digital forensics**, or in **thr
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🎩 [Sherlock Deduction Engine](https://sherlock-deduction-engine.vercel.app)
+###  [Sherlock Deduction Engine](https://sherlock-deduction-engine.vercel.app)
 
 > *London, 1888. Three cases. One killer. No second chances.*
 
@@ -43,7 +43,7 @@ A browser-based deduction game set in Victorian London. The player investigates 
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Development
 <div>
@@ -78,7 +78,7 @@ A browser-based deduction game set in Victorian London. The player investigates 
 
 ---
 
-## 📋 Skills Snapshot
+##  Skills Snapshot
 
 | Area | Level |
 |------|-------|
@@ -93,7 +93,7 @@ A browser-based deduction game set in Victorian London. The player investigates 
 
 ---
 
-## 📈 Currently Learning
+##  Currently Learning
 
 - **Bash scripting** — automating system tasks
 - **Wireshark** — capturing and analyzing network traffic
@@ -104,7 +104,7 @@ A browser-based deduction game set in Victorian London. The player investigates 
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**
 INS La Ferreria, Montcada i Reixac · 2024 – Present
@@ -114,14 +114,14 @@ INS Torre de Malla, Parets del Vallès · 2022 – 2024
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **IT Support Technician — Second Company Mollet** *(Nov 2023 – Nov 2024)*
 Diagnosis, repair, and refurbishment of electronic equipment. OS installation and configuration (Windows, Linux). Technical support, ticket management, basic network configuration.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - **Introduction to Cybersecurity** — Cisco
 - **Junior Cybersecurity Analyst Career Path** — Cisco *(In progress)*
