@@ -129,12 +129,12 @@ Diagnosis, repair, and refurbishment of electronic equipment. OS installation an
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 Español · Català · English · العربية
 
 ---
 
 <div align="center">
-  <sub>Building in public · Learning by shipping · Security is the mindset 🔍</sub>
+  <sub>Building in public · Learning by shipping · Security is the mindset </sub>
 </div>
