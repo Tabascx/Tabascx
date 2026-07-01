@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-**Junior Blue Team | DFIR Analyst | Graduado en DAW con base SMR | Soporte IT**
+**Junior Blue Team | DFIR Analyst | DAW/SMR | Soporte IT**
 
 </div>
 
@@ -45,7 +45,7 @@ A browser-based deduction game set in Victorian London. The player investigates 
 
 ##  Skills
 
-### Development & AppSec (DAW)
+### Development & AppSec
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -60,7 +60,7 @@ A browser-based deduction game set in Victorian London. The player investigates 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
 </div>
 
-### Databases, SysAdmin & Dev Tools (DAW / SMR)
+### Databases, SysAdmin & Dev Tools
 <div>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
@@ -71,7 +71,7 @@ A browser-based deduction game set in Victorian London. The player investigates 
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-### Systems, Networks & Cybersecurity (SMR)
+### Systems, Networks & Cybersecurity
 <div>
   <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -106,7 +106,7 @@ INS Torre de Malla, Parets del Vallès · 2022 – 2024
 
 ##  Experience
 
-**IT Support Technician (Prácticas FCT) — Second Company Mollet** *(Nov 2023 – Mayo 2024)*
+**IT Support Technician— Second Company Mollet** *(Nov 2023 – Nov 2024)*
 Diagnosis, repair, and refurbishment of electronic equipment. OS installation, deployment, and configuration (Windows, Windows Server, Linux). Technical support, ticketing systems management, and basic LAN network configuration.
 
 ---
