@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-**Web Application Development student · IT Support · Cybersecurity enthusiast**
+**Junior Blue Team | DFIR Analyst | Estudiante de DAW con base SMR | Soporte IT**
 
 </div>
 
@@ -57,6 +57,7 @@ A browser-based deduction game set in Victorian London. The player investigates 
   <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
 ### Databases & Tools
@@ -75,21 +76,6 @@ A browser-based deduction game set in Victorian London. The player investigates 
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-009639?&style=for-the-badge&logoColor=white" />
 </div>
-
----
-
-##  Skills Snapshot
-
-| Area | Level |
-|------|-------|
-| Python · FastAPI · REST APIs | ⬛⬛⬛⬛⬜ Building |
-| React · JavaScript · TypeScript · HTML/CSS | ⬛⬛⬛⬛⬜ Building |
-| Angular 20 · Node.js | ⬛⬛⬛⬜⬜ Intermediate |
-| Java (OOP, data structures) | ⬛⬛⬛⬜⬜ Intermediate |
-| SQL · PostgreSQL · MySQL · MongoDB | ⬛⬛⬛⬛⬜ Building |
-| Linux CLI · OS config · networking | ⬛⬛⬛⬜⬜ Intermediate |
-| Git · GitHub · version control | ⬛⬛⬛⬜⬜ Intermediate |
-| Wireshark · Nmap · recon basics | ⬛⬛⬜⬜⬜ Learning |
 
 ---
 
